@@ -8,8 +8,6 @@ NLP Lab 03
 
 (Your Name(s) Here) 
 
-Spring 2021
-
 
 ## Zipf's Law Questions
 
